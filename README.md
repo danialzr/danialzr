@@ -38,7 +38,7 @@ console.log(profile.techSummary());
 </p>
 
 ### Backend Concepts <p>
-<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" /> </p>
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" /> </p>
 
 ### Databases
 <p>
